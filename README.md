@@ -23,13 +23,13 @@ This is a simple number guessing game implemented in Python. The game prompts th
 
 ## Example Gameplay
 
-How many numbers do you want to include: 10
-A random number has been chosen between 1 and 10. Try to guess it!
-Guess the number: 5
-The number is greater than 5
-Guess the number: 8
-The number is less than 8
-Guess the number: 7
-The number is less than 7
-Guess the number: 6
-You guessed correct! 6 was the right number! You guessed 4 times in 12.34 seconds 🤖
+- How many numbers do you want to include: 10
+   - A random number has been chosen between 1 and 10. Try to guess it!
+- Guess the number: 5
+   -The number is greater than 5
+- Guess the number: 8
+   - The number is less than 8
+- Guess the number: 7
+   - The number is less than 7
+- Guess the number: 6
+   - You guessed correct! 6 was the right number! You guessed 4 times in 12.34 seconds 🤖
